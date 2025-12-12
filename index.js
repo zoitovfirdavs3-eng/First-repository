@@ -3,3 +3,5 @@ function sayHello(){
 }
 
 sayHello()
+
+console.log('Hello Git')
